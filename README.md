@@ -57,5 +57,6 @@ public class exp1 : MonoBehaviour
 ```
 ## Output:
 <img width="774" height="383" alt="image" src="https://github.com/user-attachments/assets/e8530034-66e4-4531-97bf-59327ea51d51" />
+
 ## Result:
 A 3D application for rotating the gaming objects in unity is developed successfully.
